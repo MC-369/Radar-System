@@ -29,6 +29,7 @@ A Processing sketch reads this data and visualizes it in real-time — showing a
 🔌 Powered via USB
 
 🧠 Software Overview
+
 🧾 Arduino Code:
 
 Controls servo sweep across 0–180°
