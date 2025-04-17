@@ -46,6 +46,7 @@ Draws radar rings, a rotating sweep line, and a moving detection dot
 Provides a visual simulation of object positioning
 
 🔍 Applications
+
 Obstacle detection and mapping
 
 Proximity-based robotics
